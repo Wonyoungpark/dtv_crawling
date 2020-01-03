@@ -135,8 +135,8 @@ if __name__=='__main__':
                     time.sleep(0.1)
 
                 except IndexError:
-                    pass
                     print('index의 값을 가져올 수 없습니다.')
+                    pass
 
             # 데이터의 중복 제거
             info_df.drop_duplicates('title',keep='first')
