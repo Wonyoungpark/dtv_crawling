@@ -8,6 +8,6 @@ dtv는 외국사이트로 동서양의 다양한 tv 프로그램 및 영화, 애
 * [파이썬 활용 괴식 레시피](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrOeitGY8Y0-717WbjWBl3Kq), [반원의 코딩 랜드](https://www.youtube.com/user/soorte1)
   * [공부자료](https://github.com/Wonyoungpark/dtv_crawling/tree/master/pyYoutube_study)
 * [파이썬 레시피 - 웹 활용 입문편](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrOh0A_xh7TO4QfWFMo1fWH5), [반원의 코딩 랜드](https://www.youtube.com/user/soorte1)
-
+ * [공부자료]
 ## dtv 사이트
 <https://pc.video.dmkt-sp.jp/>
